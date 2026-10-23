@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ali-aghamiri.github.io/sitemap.xml
