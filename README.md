@@ -10,4 +10,4 @@ The site uses plain HTML, CSS, and a few lines of JavaScript. It requires no bui
 - Replace `assets/Seyyed-Ali-Aghamiri-CV.pdf` when the CV changes.
 - Edit `assets/styles.css` for visual changes.
 
-Publication status is intentionally stated as it appears on the CV; the submitted manuscript is not presented as published. The featured work links point to the public verification project, a collaborative dataset, and a paper preprint.
+Publication status is intentionally stated as it appears on the CV; the submitted manuscript is not presented as published. The featured work links point to the public verification project, a collaborative dataset, and Internet Measurement coursework.
